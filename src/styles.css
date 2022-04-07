@@ -1,7 +1,7 @@
 body {
   font-family: Arial, Helvetica, Sans-serif;
-  color: rgb(252, 69, 14);
-  background-color: rgb(63, 221, 142);
+  color: rgb(252, 228, 14);
+  background-color: rgb(66, 63, 221);
   font-size: 13px;
 }
 
@@ -9,11 +9,23 @@ h1 {
   text-align: center;
 }
 #papa {
-  text-align: center;
+  text-align: left;
 }
 #Pan {
-  text-align: center;
+  text-align: left;
 }
 #Aceite {
-  text-align: center;
+  text-align: left;
+}
+
+ol{
+  font-style: italic;
+}
+
+ul{
+  font-style: oblique;
+}
+span{
+  font-size: 25px
+  
 }
